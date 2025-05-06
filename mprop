@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+
+slurp -p > /dev/null
+wlrctl pointer click
+mmsg  -g -c
